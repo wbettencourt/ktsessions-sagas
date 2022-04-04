@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.pokemon {
+  border: 1px solid #666;
+  padding: 20px;
+}
+
+.pokelist {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.searchthing {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
